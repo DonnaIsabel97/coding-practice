@@ -2,7 +2,7 @@
 
 A collection of coding exercises, technical notes, algorithms, data structures, and hands-on experiments designed to strengthen my software engineering skills and prepare for technical interviews.
 
-This repository documents my continued practice across **Python, Java, JavaScript, TypeScript, and AWS**.
+This repository documents my continued practice across **Python, Java, JavaScript, TypeScript, Three.JS and AWS**.
 
 ## 🎯 Goals
 
